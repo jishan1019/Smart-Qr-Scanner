@@ -1,0 +1,41 @@
+[
+  {
+    "id": 7,
+    "title": "Iconic Hollywood Actor Receives Lifetime Achievement Award",
+    "imageUrl": "https://example.com/actor-award.jpg",
+    "source": "Entertainment Weekly",
+    "pubName": "Celebrity Insider",
+    "author": "Sarah Johnson",
+    "frist_des_hun": "A legendary Hollywood actor, known for a career spanning decades and numerous iconic roles, was honored with a prestigious Lifetime Achievement Award at the recent awards ceremony.",
+    "second_des_hun": "The actor's contributions to the film industry have left an indelible mark on cinema. Fans and fellow actors alike celebrated the well-deserved recognition for a career filled with unforgettable performances.",
+    "third_des_hun": "The Lifetime Achievement Award not only pays tribute to a famous career but also serves as a reminder of the enduring impact of storytelling and the magic of the silver screen.",
+    "category": "Famous",
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "title": "World Renowned Artist Unveils Stunning New Exhibition",
+    "imageUrl": "https://example.com/artist-exhibition.jpg",
+    "source": "Artistic Expressions",
+    "pubName": "Art World Gazette",
+    "author": "Michaela Davis",
+    "frist_des_hun": "A world-renowned artist known for pushing the boundaries of creativity has unveiled a stunning new exhibition that has captivated art enthusiasts worldwide.",
+    "second_des_hun": "The artist's innovative approach to art has once again challenged conventions and left audiences in awe. The exhibition is a testament to the power of imagination and artistic expression.",
+    "third_des_hun": "The artist's work continues to inspire and provoke thought, reaffirming their status as a true visionary in the world of art. The exhibition is a must-see for anyone passionate about creativity and innovation.",
+    "category": "Famous",
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "title": "Legendary Musician's Farewell Tour Draws Massive Crowds",
+    "imageUrl": "https://example.com/musician-tour.jpg",
+    "source": "Music Beat Magazine",
+    "pubName": "Music Legends Today",
+    "author": "David Anderson",
+    "frist_des_hun": "A legendary musician, whose timeless songs have touched hearts for generations, embarked on a farewell tour that has drawn massive crowds and emotional tributes from fans.",
+    "second_des_hun": "The musician's impact on the world of music is immeasurable, and the farewell tour is a bittersweet celebration of a career filled with unforgettable melodies and lyrics.",
+    "third_des_hun": "As the tour travels the world, it serves as a reminder of the enduring power of music to connect people across generations and cultures. The legend's music will continue to resonate for years to come.",
+    "category": "Famous",
+    "rating": 4.7
+  }
+]

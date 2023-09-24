@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of Artificial Intelligence",
+    "imageUrl": "https://example.com/ai-future.jpg",
+    "source": "Tech Insights",
+    "pubName": "Tech World",
+    "author": "Jane Smith",
+    "frist_des_hun": "Artificial Intelligence (AI) is advancing at an astonishing rate, reshaping industries and the way we live and work. With its ability to analyze massive datasets and make predictions, AI is powering everything from virtual assistants to autonomous vehicles.",
+    "second_des_hun": "Companies are leveraging AI to improve customer experiences and streamline operations. From healthcare to finance, AI applications are limitless. However, ethical concerns about data privacy and algorithm bias need to be addressed.",
+    "third_des_hun": "As AI becomes more integrated into our lives, its potential and ethical concerns come to the forefront. Striking the right balance between innovation and responsible use is the key challenge of our AI-driven future.",
+    "category": "Technology",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "The Rise of 5G Technology",
+    "imageUrl": "https://example.com/5g-rise.jpg",
+    "source": "5G Tech News",
+    "pubName": "Tech Innovators",
+    "author": "David Johnson",
+    "frist_des_hun": "The rollout of 5G networks is transforming the way we connect to the internet and communicate. With its ultra-fast speeds and low latency, 5G is enabling innovations like the Internet of Things (IoT) and autonomous vehicles.",
+    "second_des_hun": "5G's impact extends beyond consumer use. Industries such as healthcare, manufacturing, and entertainment are set to benefit. However, challenges like infrastructure deployment and security must be carefully addressed.",
+    "third_des_hun": "While 5G offers incredible potential, it also raises questions about data security and privacy. Balancing the benefits of 5G with its risks is a complex task for policymakers and technology leaders.",
+    "category": "Technology",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "title": "The Impact of Quantum Computing",
+    "imageUrl": "https://example.com/quantum-computing.jpg",
+    "source": "Quantum Tech Insights",
+    "pubName": "Tech Pioneers",
+    "author": "Michael Brown",
+    "frist_des_hun": "Quantum computing promises to revolutionize computing power, solving complex problems at speeds unimaginable with classical computers. Its applications span fields such as cryptography, drug discovery, and materials science.",
+    "second_des_hun": "The potential of quantum computing is immense, but it's still in its early stages. Researchers are grappling with challenges related to error correction, stability, and scalability.",
+    "third_des_hun": "Despite the hurdles, quantum computing holds the key to unlocking new frontiers in science and technology. The race to harness its full potential is on, with governments and companies investing heavily in quantum research.",
+    "category": "Technology",
+    "rating": 4.9
+  }
+]

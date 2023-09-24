@@ -1,0 +1,41 @@
+[
+  {
+    "id": 4,
+    "title": "Global Climate Summit Addresses Urgent Climate Issues",
+    "imageUrl": "https://example.com/climate-summit.jpg",
+    "source": "World News Network",
+    "pubName": "Global News Hub",
+    "author": "Emily Rodriguez",
+    "frist_des_hun": "The recent Global Climate Summit brought together world leaders to address the urgent climate issues facing our planet. Discussions focused on strategies to reduce greenhouse gas emissions and combat the effects of climate change.",
+    "second_des_hun": "The summit emphasized the importance of international cooperation and sustainable practices. Leaders from different countries pledged to take significant steps towards a greener future, with a focus on renewable energy and conservation.",
+    "third_des_hun": "As the world grapples with extreme weather events and environmental challenges, the outcomes of this summit have far-reaching implications. It's a crucial step towards a more sustainable and resilient global environment.",
+    "category": "World",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "title": "Conflict Resolution Efforts in the Middle East",
+    "imageUrl": "https://example.com/middle-east-conflict.jpg",
+    "source": "Middle East News Today",
+    "pubName": "World Affairs Journal",
+    "author": "Ahmed Al-Mansouri",
+    "frist_des_hun": "Efforts for conflict resolution in the Middle East have gained momentum as international diplomats work tirelessly to bring stability to the region. Negotiations between warring parties have shown promise, with ceasefires and peace talks underway.",
+    "second_des_hun": "The complex geopolitical landscape of the Middle East poses challenges, but there is hope for peaceful coexistence. Diplomatic initiatives, supported by the global community, aim to address longstanding conflicts and promote reconciliation.",
+    "third_des_hun": "The path to lasting peace in the Middle East is challenging, but ongoing efforts are a testament to the commitment of nations to find common ground and bring an end to violence and instability in the region.",
+    "category": "World",
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "title": "Humanitarian Aid Reaches War-Torn Region",
+    "imageUrl": "https://example.com/humanitarian-aid.jpg",
+    "source": "Global Humanitarian News",
+    "pubName": "World Relief",
+    "author": "Sarah Turner",
+    "frist_des_hun": "Much-needed humanitarian aid has reached a war-torn region, providing essential supplies and support to those affected by conflict. The international community rallied to deliver food, medical supplies, and shelter to displaced families.",
+    "second_des_hun": "Humanitarian organizations are working tirelessly to alleviate suffering and provide relief to vulnerable populations. Despite challenges, the delivery of aid offers hope for those caught in the midst of crisis and violence.",
+    "third_des_hun": "The delivery of humanitarian aid is a crucial step towards mitigating the impact of war and fostering resilience among affected communities. It underscores the importance of international solidarity and compassion in times of crisis.",
+    "category": "World",
+    "rating": 4.7
+  }
+]
