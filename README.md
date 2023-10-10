@@ -1,9 +1,10 @@
-# React + Vite
+#Smart Qr Code Scanner From Screenshort.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Feturs:
 
-Currently, two official plugins are available:
+-Qr Code Scan from any picture or screenshort.
+-Responsive Ui Design.
+-Scan Report show system with upload picture/Screenshort.
+-Response show Via Toast.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# jagoron_news
+Live link: https://smartqrscanner.prothomaloblog.xyz/
